@@ -1,8 +1,7 @@
 <!-- Opening -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23784795&center=true&vCenter=true&width=600&font=Courier+New&weight=700&size=25&lines=Hi+there+🙋🏻‍♀️,+It's+Kako;+Welcome+to+My+Github+Profile!;Software+Developer+and+Tech+Enthusiast;Always+learning+new+things!)](https://git.io/typing-svg)
 
-<br>
-<br>
+
 <!-- Intro -->
 - 💻 I'm a **Full Stack Developer** with experience in **React, NextJS, Node.js, Java, Spring Boot, and DevOps**.
 - 🌍 Worked in **freelance, corporate, and startup environments**, developing scalable applications and optimizing workflows.
@@ -12,8 +11,6 @@
 - 🤝 Proficient in **GitHub, Jira, MS Teams**, and **agile methodologies**, ensuring efficient team collaboration.
 - 🔍 Passionate about **web development, cloud computing, and AI-driven solutions**.
 
-<br>
-<br>
 
 <!-- Skills -->
 ### 🛠 Skills
@@ -61,6 +58,7 @@
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white" />
     <img src="https://img.shields.io/badge/MS_Teams-6264A7?style=flat&logo=microsoft-teams&logoColor=white" />
 </p>
+
 
 ---
 
